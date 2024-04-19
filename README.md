@@ -16,6 +16,11 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 ![Screenshot from 2024-04-19 10-03-51](https://github.com/hamedbehzadi/VEBI-PyTorch-Implementation/assets/45251957/55d6038a-8bac-472b-8bfc-678945c60b9a)
 
 
+![Screenshot from 2024-04-19 10-05-10](https://github.com/hamedbehzadi/VEBI-PyTorch-Implementation/assets/45251957/722bcc5e-f33f-408a-b6ff-966872b5eec7)
+
+
+
+
 
 
 
