@@ -34,10 +34,10 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 > ```
 >
 > ### 2. Installing following libraries
->
 > ```plaintext
-> Pytorch
-> Matplotlib
-> openCV
+> Python > 3.8
+> Pytorch > 2.2
+> openCV > 3.10
+>Matplotlib > 3.8
 > spams
 > ```
