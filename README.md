@@ -24,7 +24,11 @@ Visualization results on CUB dataset.
 ![Screenshot from 2024-04-19 10-05-10](https://github.com/hamedbehzadi/VEBI-PyTorch-Implementation/assets/45251957/722bcc5e-f33f-408a-b6ff-966872b5eec7)
 
 
+Setup
 
+'''
+Hellow
+'''
 
 
 
