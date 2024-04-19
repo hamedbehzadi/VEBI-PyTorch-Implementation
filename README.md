@@ -26,7 +26,6 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 
 ## Setup
 ```html
-div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
     <pre>
         LibraryA >= 1.0
         LibraryB == 2.3.4
