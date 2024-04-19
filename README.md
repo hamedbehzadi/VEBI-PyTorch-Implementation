@@ -41,3 +41,6 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 >Matplotlib > 3.8
 > spams
 > ```
+
+## Reference
+@article{eval_protocol, title={A Protocol for Evaluating Model Interpretation Methods from Visual Explanations}, author={Behzadi-Khormouji, Hamed, Oramas, Jos{'e}}, journal={Winter Conference on Applications of Computer Vision (WACV)}, year={2023} }
