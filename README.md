@@ -27,6 +27,13 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 ## Setup
 1. Create a virtual environment and activate it.
 ```plaintext
- python3 -m venv env
+python3 -m venv env
 source env/bin/activate
+
+2. Installing following libraries
+```plaintext
+Pytorch
+Matplotlib
+openCV
+spams
 
