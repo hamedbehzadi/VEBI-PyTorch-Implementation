@@ -30,6 +30,7 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 python3 -m venv env
 source env/bin/activate
 
+```markdown
 2. Installing following libraries
 ```plaintext
 Pytorch
