@@ -31,9 +31,3 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
  python3 -m venv env
 source env/bin/activate
 </div>
-2. Install following dependencies
-'''html
-Pytorch
-Matplotlib
-openCV
-spams
