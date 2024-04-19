@@ -27,13 +27,10 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 ## Setup
 1. Create a virtual environment and activate it.
 ```html
-\<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;"\>
-\<div\>
+<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
  python3 -m venv env
 source env/bin/activate
-\<\/div\>
-\<\/div\>
-
+</div>
 2. Install following dependencies
 '''html
 Pytorch
