@@ -27,7 +27,7 @@ Visualization results on CUB dataset.
 Setup
 
 '''
-Hellow
+
 '''
 
 
