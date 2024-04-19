@@ -26,7 +26,7 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 
 ## Setup
 1. Create a virtual environment and activate it.
-```plaintext
+```html
 <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
 <div>
  python3 -m venv env
