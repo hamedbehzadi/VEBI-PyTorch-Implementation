@@ -2,7 +2,7 @@
 
 This repositoy provides the PyTorch implementation of a post-hoc model interpretation method titled: "Visual Explanation by Interpretation: Improving Visual Feedback Capabilities of Deep Neural Networks" (Oramas et al. ICLR 2019).
 
-### Description of files are as follows
+## Description of files are as follows
 
 VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant internal units.
 
@@ -24,7 +24,7 @@ VEBI has two phases: (1) Collecting activation maps (2) Identifying the relevant
 ![Screenshot from 2024-04-19 10-05-10](https://github.com/hamedbehzadi/VEBI-PyTorch-Implementation/assets/45251957/722bcc5e-f33f-408a-b6ff-966872b5eec7)
 
 
-### Setup
+## Setup
 
 '''
 
